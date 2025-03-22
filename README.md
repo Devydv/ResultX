@@ -59,10 +59,4 @@ git push origin feature-branch
 
 #### Open a pull request.
 
-## Contact
-
-### Author: Prahallad Padhan
-
-### Email: prahalladp1325@gmail.com
-
 For more information, visit the ResultX repository.
